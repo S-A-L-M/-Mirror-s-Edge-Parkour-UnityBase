@@ -17,7 +17,7 @@ A example FPS with Parkour mechanics inspired by Mirror's Edge made in Unity wri
 - Platform: Windows, macOS, or Linux
 -   Unity Version: Unity 2019.1.0 or higher
 -   Storage: 300 mb GB free space
--   Controller Recommended: Experience the full power of Kratos with a game controller.
+-   Controller Recommended: Immerse yourself in the "Mirror's Edge" experience with a game controller.
 
 
 ## 2. Key Features:
@@ -34,5 +34,5 @@ Dive into the gameplay with these exciting features:
 ## Screenshots
 
 See the game in action with these captivating screenshots:
-
+![Captura de pantalla del juego](Cap-Mirros-Edge.gif)
 
